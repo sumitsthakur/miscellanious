@@ -1,4 +1,4 @@
-#GIT COMMANDS  
+# GIT COMMANDS  
 
 ** git config user name and user email : **  
 git config –global user.name [name]  
@@ -53,15 +53,15 @@ git show
 ** add tag to commit **  
 git tag [commitid]  
 
-** merge specic branch into the current branch **  
+**merge specic branch into the current branch **  
 git merge [branchname]  
 
-** push committed changes of local branch to remote branch **  
+**push committed changes of local branch to remote branch **  
 git push origin master   
 git push -u origin [branch]  
 git push -all   
 
-** pull changes of remote to local **  
+**pull changes of remote to local **  
 git pull   
 
 ** to store the tracked files in temp location **  
@@ -87,6 +87,6 @@ git reset --SOFT ( discarding last commit, but files will be present in the stag
 
 git cherry-pick [commit-hash]  
 
-###References :  
+### References :  
 
 https://dzone.com/articles/top-20-git-commands-with-examples  
