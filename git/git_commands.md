@@ -1,8 +1,8 @@
 # GIT COMMANDS  
 
 **git config user name and user email**   
-git config –global user.name [name]  
-git config –global user.email [email address]  
+git config â€“global user.name [name]  
+git config â€“global user.email [email address]  
 
 **create a new repo**   
 git init  
@@ -44,10 +44,10 @@ git commit -m "message"
 **removes the file from working directory and stages deletion**   
 git rm [file]  
 
-**get the version history for the current branch.**   
+**get the version history for the current branch**   
 git log  
 
-** metadata and content changes of the specified commit**   
+**metadata and content changes of the specified commit**   
 git show  
 
 **add tag to commit**    
