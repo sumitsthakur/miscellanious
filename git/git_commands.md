@@ -1,8 +1,8 @@
 # GIT COMMANDS  
 
 ** git config user name and user email : **  
-git config –global user.name “[name]”  
-git config –global user.email “[email address]”   
+git config –global user.name [name]  
+git config –global user.email [email address]  
 
 ** create a new repo **  
 git init  
