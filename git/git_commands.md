@@ -1,13 +1,13 @@
 # GIT COMMANDS  
 
-** git config user name and user email : **  
+**git config user name and user email**  
 git config –global user.name [name]  
 git config –global user.email [email address]  
 
-** create a new repo **  
+**create a new repo**  
 git init  
 
-** fetch existing repo from url **  
+**fetch existing repo from url**  
 git clone [repo_url]  
 
 ** display all existing branches in repo **  
